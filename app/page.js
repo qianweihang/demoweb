@@ -23,7 +23,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-primary/80 z-10"></div>
           <img 
-            src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=ocean%20freight%20shipping%20container%20ship%20port%20logistics%20professional%20photography&image_size=landscape_16_9" 
+            src="/ocean-freight-shipping.png" 
             alt="海运物流" 
             className="w-full h-full object-cover"
           />
